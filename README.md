@@ -1,5 +1,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Igor_Borges-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/igor-silva-borges/)](https://www.linkedin.com/in/igor-silva-borges/) 
-[![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-360/) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorm4aster@gmail.com)](mailto:igorm4aster@gmail.com) [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-360/) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
 
 
 [![capa](https://cdn.discordapp.com/attachments/1088554408469602305/1141403743376658433/Black_Technology_LinkedIn_Banner_7.jpg)](https://github.com/Igor-snBorges?tab=repositories)
