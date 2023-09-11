@@ -8,9 +8,6 @@
 
 Bem-vindo(a) ao meu repositório de projetos de Ciência de Dados, criado para estudos e aprimoramento contínuo. Aqui, compartilho projetos desenvolvidos para melhorar minhas habilidades nesta área em constante evolução. Todos os dados são usados apenas para fins de demonstração, garantindo total privacidade e conformidade ética.
 
-Welcome to my Data Science project repository, designed for study and ongoing improvement. Here, I share projects developed to enhance my skills in this constantly evolving field. All data is used solely for demonstration purposes, ensuring complete privacy and ethical compliance.
-
-
 ## Projetos 
 
 ## ⚡️ Machine Learning
@@ -22,7 +19,8 @@ Welcome to my Data Science project repository, designed for study and ongoing im
 ## ⚡️ Deep Learning
 
 * [Identificação de Roupas por Imagem com Deep Learning para E-commerce]() Este projeto de deep learning tem o objetivo de identificar peças de roupas em imagens, tornando-o uma ferramenta valiosa para o setor de comércio eletrônico. Através da análise detalhada das características visuais das roupas, o sistema é capaz de categorizá-las. Esse modelo não apenas melhora a eficiência do gerenciamento de estoque, mas também proporciona recomendações de produtos mais personalizadas, tornando-o uma vantagem competitiva significativa para as empresas de e-commerce que desejam aprimorar a experiência do usuário e impulsionar as vendas.
-
+  
+_Ferramentas: Sklearn, Imblearn, Pandas, Seaborn, Matplotlib_
  
 ## 👋 Sobre Mim (About Me)
 
@@ -31,12 +29,6 @@ Welcome to my Data Science project repository, designed for study and ongoing im
 Durante meu período como estagiário na IBM, desempenhei um papel fundamental na análise de dados para o cliente Record TV, cujos detalhes específicos são confidenciais. Minhas habilidades e competências abrangeram uma ampla gama de ferramentas e linguagens, incluindo proficiência em JIRA, criação de dashboards, modelagem de dados, análise preditiva e visualização de dados. Além disso, demonstrei expertise em campos como Ciência de Dados, Ciência da Computação e habilidades avançadas em apresentações técnicas.
 
 Minha experiência também abrangeu a gestão de processos de ETL (Extração, Transformação e Carregamento) e programação em linguagens como Python, Appium, Selenium, C++, Linux, Java, VBScript e HP UFT, consolidando minha capacidade de enfrentar desafios técnicos diversos e complexos. 📊🔍💡
-
----
-
-During my internship at IBM, I played a pivotal role in data analysis for the confidential client, Record TV. My skills and competencies encompassed a wide array of tools and languages, including proficiency in JIRA, dashboard creation, data modeling, predictive analysis, and data visualization. Furthermore, I showcased expertise in fields such as Data Science, Computer Science, and advanced technical presentations.
-
-My experience also extended to managing ETL (Extraction, Transformation, and Loading) processes and programming in languages such as Python, Appium, Selenium, C++, Linux, Java, VBScript, and HP UFT, solidifying my ability to tackle diverse and intricate technical challenges."
 
 
   
