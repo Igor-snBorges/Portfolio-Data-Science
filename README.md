@@ -18,7 +18,7 @@ Bem-vindo(a) ao meu repositório de projetos de Ciência de Dados, criado para e
 
 ## ⚡️ Deep Learning
 
-* [Identificação de Roupas por Imagem com Deep Learning para E-commerce]() Este projeto de deep learning tem o objetivo de identificar peças de roupas em imagens, tornando-o uma ferramenta valiosa para o setor de comércio eletrônico. Através da análise detalhada das características visuais das roupas, o sistema é capaz de categorizá-las. Esse modelo não apenas melhora a eficiência do gerenciamento de estoque, mas também proporciona recomendações de produtos mais personalizadas, tornando-o uma vantagem competitiva significativa para as empresas de e-commerce que desejam aprimorar a experiência do usuário e impulsionar as vendas.
+* [Identificação de Roupas por Imagem com Deep Learning para E-commerce](https://github.com/Igor-snBorges/Portfolio-Data-Science/blob/main/Analise_Fraude.ipynb) Este projeto de deep learning tem o objetivo de identificar peças de roupas em imagens, tornando-o uma ferramenta valiosa para o setor de comércio eletrônico. Através da análise detalhada das características visuais das roupas, o sistema é capaz de categorizá-las. Esse modelo não apenas melhora a eficiência do gerenciamento de estoque, mas também proporciona recomendações de produtos mais personalizadas, tornando-o uma vantagem competitiva significativa para as empresas de e-commerce que desejam aprimorar a experiência do usuário e impulsionar as vendas.
   
   _Ferramentas: Numpy, Keras, Matplotlib, TensorFlow_
  
