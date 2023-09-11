@@ -14,7 +14,7 @@ Bem-vindo(a) ao meu repositório de projetos de Ciência de Dados, criado para e
 
 * [Análise de Fraude Usando Arvore de Decisão(Fraud Detection)]() este código de análise de fraudes bancárias emprega a árvore de decisão para detectar e identificar possíveis fraudes com base nas atividades e transações de cada cliente. O sistema é altamente segmentado e simplificado, atribuindo um perfil distinto a cada cliente e empregando técnicas de clustering para análise.
        
-  _Ferramentas: Panda, Sklearn, matplotlib_
+  _Ferramentas: Panda, Sklearn, Matplotlib_
 
 ## ⚡️ Deep Learning
 
