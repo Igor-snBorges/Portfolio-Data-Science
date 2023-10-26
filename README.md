@@ -22,7 +22,7 @@ Bem-vindo(a) ao meu repositório de projetos de Ciência de Dados, criado para e
   
   _Ferramentas: Numpy, Keras, Matplotlib, TensorFlow_
 
-* [Detecção de desmatamento na Amazonia brasileira](https://github.com/Igor-snBorges/Portfolio-Data-Science/blob/main/Reconhecimento_de_Roupas.ipynb) Esse projeto tem como objetivo analisar e estudar o avanco de zonas de desmatamento na Amazonia brasileira.
+* [Detecção de desmatamento na Amazonia brasileira](https://github.com/Igor-snBorges/Portfolio-Data-Science/blob/main/Amazonia.ipynb) Esse projeto tem como objetivo analisar e estudar o avanco de zonas de desmatamento na Amazonia brasileira.
   
   _Ferramentas: Pandas, missingno, Numpy, , Matplotlib, Seaborn_
  
